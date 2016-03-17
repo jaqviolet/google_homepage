@@ -1,0 +1,59 @@
+
+#header {
+	float: right;
+	
+	}
+.image {
+	
+	padding-top:100px;
+	text-align:center;
+	
+}
+.search {
+	text-align:center;
+	
+.search_bar {
+	border:solid black 1px;
+	width:80%;
+}
+
+	
+}
+button {
+	text-align:center;
+	display: inline-block;
+	background-color:#f2f2f2;
+	border: transparent 1px;
+	margin: 10px;
+	width:150px;
+	height:40px;
+
+}
+.center_button{
+	position:relative;
+	text-align:center;
+}
+input {
+	border: solid blue 1px;
+	width: 500px;
+	height: 40px;
+	margin:20px;
+	background-image: http://1.bp.blogspot.com/-lINg3E20_4Y/VebwdAy_MaI/AAAAAAAAFJU/8Jg2H-3-_cc/s1600/Microphone.png;
+}
+.footer {
+	position:fixed;
+	background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    line-height: 40px;
+    width:98%;
+    bottom:0;
+	}
+
+#leftfooter {
+	float:left;
+}
+#rightfooter {
+	float:right;
+}
+
+
